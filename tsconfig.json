@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "sourceMap": true,
+    "module": "es6",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noImplicitAny": true
+  },
+  "awesomeTypescriptLoaderOptions": {
+    "useBabel": true,
+    "useWebpackText": true
+  },
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
+}

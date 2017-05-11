@@ -1,0 +1,22 @@
+@import '../shared/sass/shared';
+
+:host {
+  display: block;
+}
+
+.navbar {
+
+  .navbar-brand {
+    max-width: 230px;
+    padding-left: 43px;
+    position: relative;
+
+    .logo {
+      height: 34px;
+      left: 0;
+      position:absolute;
+      margin-top: -17px;
+      top: 50%;
+    }
+  }
+}

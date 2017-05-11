@@ -1,0 +1,18 @@
+<header class="component-app-header">
+    <nav class="navbar navbar-toggleable-md fixed-top navbar-inverse">
+        <button class="navbar-toggler navbar-toggler-right" type="button" (click)="toggleNav()" [class.collapsed]="!navShowing" aria-controls="navbar" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" routerLink="/home">
+            <!-- header image -->header text
+        </a>
+
+        <!--<div class="navbar-collapse" id="navbar" [class.show]="!transitioning && navShowing" [class.collapse]="!transitioning" [class.collapsing]="transitioning">
+            <ul class="navbar-nav mr-auto">
+                <li *ngFor="let item of navItems" class="nav-item" routerLinkActive="active">
+                    <a class="nav-link" routerLink="{{item.url}}">{{item.label}}</a>
+                </li>
+            </ul>
+        </div>-->
+    </nav>
+</header>

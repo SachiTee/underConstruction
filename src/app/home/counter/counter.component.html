@@ -1,0 +1,8 @@
+<div>
+    My Counter
+   <ng-content></ng-content>
+    {{targetDate | date: "medium"}}
+    seconds to go:
+    <span *ngIf="displaySeconds">{{displaySeconds}}</span>
+
+</div>
