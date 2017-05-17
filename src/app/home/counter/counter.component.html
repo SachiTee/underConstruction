@@ -4,5 +4,9 @@
     {{targetDate | date: "medium"}}
     seconds to go:
     <span *ngIf="displaySeconds">{{displaySeconds}}</span>
-
+    Countdown to site launch: 
+	<span class="">Months remaining: {{ monthsLeft }}</span> <span> Days left: {{ daysLeft }}</span>
 </div>
+<ul>
+<li *ngFor="let fruit of stringArray;">{{ fruit }}</li>
+</ul>
