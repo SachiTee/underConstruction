@@ -1,0 +1,48 @@
+{
+  "data": {
+    "sampleProducts": [
+      {
+        "title": "For Your Heart",
+        "price": "$15.00",
+        "description": "Fragrance that smells great and also touches your heart (sample text)",
+        "photo": "http://consciouschoice9.com/wp-content/uploads/2019/06/For-your-heart-100x100-1.jpg"
+      },
+      {
+        "title": "Angels",
+        "price": "$15.00",
+        "description": "Fragrance for Angels (sample text)",
+        "photo": "http://consciouschoice9.com/wp-content/uploads/2019/06/Angels-100x100-1.jpg"
+      },
+      {
+        "title": "Relief Please!",
+        "price": "$15.00",
+        "description": "Fragrance that gives you some much needed relief (sample text)",
+        "photo": "http://consciouschoice9.com/wp-content/uploads/2019/06/Relief-Please-100x100-1.jpg"
+      },
+      {
+        "title": "Evelyn",
+        "price": "$15.00",
+        "description": "Fragrance that helps you protect yourself, Evelyn testifies that this gave her immune boosting abilities (sample text)",
+        "photo": "http://consciouschoice9.com/wp-content/uploads/2019/06/Evelyn-100x100-1.jpg"
+      },
+      {
+        "title": "Arnica+",
+        "price": "$15.00",
+        "description": "Fragrance that helps with soreness (sample text)",
+        "photo": "http://consciouschoice9.com/wp-content/uploads/2019/06/Arnica-100x100.jpg"
+      },
+      {
+        "title": "Resistance",
+        "price": "$15.00",
+        "description": "Fragrance that protects you from the daily agents that pollute the air (sample text)",
+        "photo": "http://consciouschoice9.com/wp-content/uploads/2019/06/Resistance-100x100.jpg"
+      },
+      {
+        "title": "Room Refresh",
+        "price": "$15.00",
+        "description": "Fragrance that freshens your room, room mist (sample text)",
+        "photo": "http://consciouschoice9.com/wp-content/uploads/2019/06/roomrefresh-100x100.jpg"
+      }
+    ]
+  }
+}
